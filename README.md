@@ -276,10 +276,10 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 
 
 -->
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api?MaxenceRogerieux={MaxenceRogerieux}&theme=blue-green
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?MaxenceRogerieux={MaxenceRogerieux}&theme=blue-green
 
-https://starchart.cc/{username}/{repo}.svg
+https://starchart.cc/{MaxenceRogerieux}/{MaxenceRogerieux}.svg
 
 ⁉️ask me about anything [here](https://github.com/MaxenceRogerieux/MaxenceRogerieux/issues "Report an issue")⁉️
