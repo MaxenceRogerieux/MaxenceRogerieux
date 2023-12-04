@@ -284,7 +284,27 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 
 
 -->
+### Langages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![xxx](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white) ![xxx](https://img.shields.io/badge/STMicroelectronics-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white) ![xxx](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white) ![xxx](https://img.shields.io/badge/Processing%20Foundation-006699.svg?style=for-the-badge&logo=Processing-Foundation&logoColor=white) ![xxx](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)
+#### IDE
+![xxx](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![xxx](https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white) ![xxx](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+#### Web
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![xxx](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) ![xxx](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white) ![xxx](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
+#### Data
+![xxx](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![xxx](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![JQuerry](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+#### Server
+![aws](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
+#### Word processing
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![xxx](https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white)
+#### OS
+![xxx](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![xxx](https://img.shields.io/badge/Windows-0078D4.svg?style=for-the-badge&logo=Windows&logoColor=white) ![xxx](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 
+#### Design
+![xxx](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![xxx](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
+#### Tools
+![xxx](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![xxx](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
+#### Social
+![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 <!---
 Good themes :
 gruvbox_light
@@ -294,10 +314,19 @@ great-gatsby
 slateorange
 ambient_gradient
 -->
+
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=gruvbox_light "stats")
+
+<!---
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=vue "stats")
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=buefy "stats")
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=slateorange "stats")
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=ambient_gradient "stats")
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=great-gatsby "stats")
-
 ![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=great-gatsby "stats")
-
+-->
+<!---
 ![text](https://starchart.cc/MaxenceRogerieux/A3projetC.svg "stats")
+-->
 
 ⁉️ask me about anything [here](https://github.com/MaxenceRogerieux/MaxenceRogerieux/issues "Report an issue")⁉️
