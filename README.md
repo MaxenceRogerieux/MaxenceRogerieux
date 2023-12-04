@@ -306,7 +306,7 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 #### Social
 ![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) [(https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/maxence-rogerieux-2b2110241)
 
-[ceci est un site](www.linkedin.com/in/maxence-rogerieux-2b2110241)
+[ceci est un site](https://www.linkedin.com/in/maxence-rogerieux-2b2110241)
 <!---
 Good themes :
 gruvbox_light
