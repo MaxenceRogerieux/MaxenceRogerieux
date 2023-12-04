@@ -1,3 +1,6 @@
+### Social
+![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on gettin my engineering degree🎓
@@ -293,8 +296,6 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 ![xxx](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![xxx](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white)
 #### Tools
 ![xxx](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![xxx](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
-#### Social
-![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241)
 
 <!---
 Good themes :
