@@ -308,6 +308,7 @@ ambient_gradient
 
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=gruvbox_light "stats")
 
+![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=gruvbox_light)
 <!---
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=vue "stats")
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=buefy "stats")
@@ -316,8 +317,7 @@ ambient_gradient
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=great-gatsby "stats")
 ![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=great-gatsby "stats")
 -->
-<!---
+
 ![text](https://starchart.cc/MaxenceRogerieux/A3projetC.svg "stats")
--->
 
 ⁉️ask me about anything [here](https://github.com/MaxenceRogerieux/MaxenceRogerieux/issues "Report an issue")⁉️
