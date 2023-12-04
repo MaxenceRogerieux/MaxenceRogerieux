@@ -288,6 +288,8 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 
 ![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=blue-green "stats")
 
-![text](https://starchart.cc/MaxenceRogerieux/MaxenceRogerieux.svg "stats")
+![text](https://starchart.cc/MaxenceRogerieux/A3projetC.svg "stats")
+
+https://starchart.cc/{username}/{repo}.svg
 
 ⁉️ask me about anything [here](https://github.com/MaxenceRogerieux/MaxenceRogerieux/issues "Report an issue")⁉️
