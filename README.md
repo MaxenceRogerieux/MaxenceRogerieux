@@ -284,9 +284,9 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 
 
 -->
-![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=blue-green "stats")
+![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=merko "stats")
 
-![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=blue-green "stats")
+![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=merko "stats")
 
 ![text](https://starchart.cc/MaxenceRogerieux/A3projetC.svg "stats")
 
