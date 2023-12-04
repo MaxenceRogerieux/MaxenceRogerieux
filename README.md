@@ -308,9 +308,8 @@ ambient_gradient
 
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=gruvbox_light "stats")
 
-![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&theme=gruvbox_light)
+![text](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRogerieux&layout=compact&theme=gruvbox_light)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxenceRogerieux&count_private=true&theme=gruvbox_light&hide_border=true)
 <!---
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=vue "stats")
 ![text](https://github-readme-stats.vercel.app/api?username=MaxenceRogerieux&theme=buefy "stats")
