@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on gettin my engineering degree 🎓
+- 🔭 I’m currently working on gettin my engineering degree🎓
 - 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino)
 - 📫 How to reach me: [e-mail](maxence.rogerieux@isen-ouest.yncrea.fr)
 
