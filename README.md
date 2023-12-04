@@ -277,7 +277,7 @@ https://img.shields.io/github/issues-closed/{username}/{repo-name}.svg
 
 
 -->
-https://github-readme-stats.vercel.app/api?username={MaxenceRogerieux}&theme=blue-green
+![text](https://github-readme-stats.vercel.app/api?username={MaxenceRogerieux}&theme=blue-green "stats")
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={MaxenceRogerieux}&theme=blue-green
 
