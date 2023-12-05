@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on gettin my engineering degree🎓
 - 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino)
-- 📫 How to reach me: [e-mail](maxence.rogerieux@isen-ouest.yncrea.fr)
+- 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@isen-ouest.yncrea.fr)
 
 <!---
 Source : https://dev.to/envoy_/150-badges-for-github-pnk
