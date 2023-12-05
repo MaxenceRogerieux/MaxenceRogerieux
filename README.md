@@ -1,5 +1,5 @@
 ### Social
-[![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaxenceRogerieux) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241) [![xxx](https://img.shields.io/badge/Reed_my_CV-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white&bgColor=red)](https://github.com/MaxenceRogerieux/MaxenceRogerieux/blob/2fa85d4a95312f7c2554ae38e843beaeea55725b/CV_Stage_M1_Nantes.pdf)
+[![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaxenceRogerieux) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241) [![xxx](https://img.shields.io/badge/Reed_my_CV-111111.svg?style=for-the-badge&logo=readdotcv&color=orange)](https://github.com/MaxenceRogerieux/MaxenceRogerieux/blob/2fa85d4a95312f7c2554ae38e843beaeea55725b/CV_Stage_M1_Nantes.pdf)
 
 ### Hi there 👋
 
