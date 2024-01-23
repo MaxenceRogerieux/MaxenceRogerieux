@@ -4,7 +4,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on getting my engineering degree🎓
-- 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino)
+- 🏢 Intern in Terre Vorace 🪱
+- 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino) for an IoT project
 - 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@isen-ouest.yncrea.fr)
 
 <!---
