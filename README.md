@@ -3,9 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently on Erasmus in Bavaria, Germany
-- 🎓 Working on my engineering degree🎓
-- 🏢 Intern at  [Terre Vorace](https://terre-vorace.fr/) 🪱(IMT Atlantique)
+- 🔭 I’m currently working for Mosica (IT services)
+- 🎓 Working on my engineering degree (2020-2025)🎓
 - 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino) for an IoT project
 - 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@isen-ouest.yncrea.fr)
 
