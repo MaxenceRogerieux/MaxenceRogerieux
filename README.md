@@ -3,10 +3,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working for Mosica (IT services)
-- 🎓 Working on my engineering degree (2020-2025)🎓
+- 🔭 I’m currently working for new opportunities
+- 🎓 IT Engineer (ISEN - Nantes)🎓
 - 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino) for an IoT project
-- 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@isen-ouest.yncrea.fr)
+- 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@outlook.fr)
 
 <!---
 Source : https://dev.to/envoy_/150-badges-for-github-pnk
