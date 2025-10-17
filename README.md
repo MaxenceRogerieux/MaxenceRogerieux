@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working for new opportunities
-- 🎓 Graduated IT Engineer (ISEN - Nantes)🎓
+- 🎓 Graduate IT Engineer (ISEN - Nantes)🎓
 - 🌱 I’m currently learning [arduino](https://openclassrooms.com/forum/sujet/mooc-arduino) for an IoT project
 - 📫 How to reach me: [e-mail](mailto:maxence.rogerieux@outlook.fr)
 
