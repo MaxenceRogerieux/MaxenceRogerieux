@@ -1,5 +1,5 @@
 ### Socials
-[![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaxenceRogerieux) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241) [![xxx](https://img.shields.io/badge/Reed_my_CV-111111.svg?style=for-the-badge&logo=readdotcv&color=f10000)](https://github.com/MaxenceRogerieux/MaxenceRogerieux/blob/main/CV%20dev%20CDI.pdf)
+[![xxx](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MaxenceRogerieux) [![xxx](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxence-rogerieux-2b2110241) [![xxx](https://img.shields.io/badge/Reed_my_CV-111111.svg?style=for-the-badge&logo=readdotcv&color=f10000)](https://github.com/MaxenceRogerieux/MaxenceRogerieux/blob/main/CV%20CDI%20EN.pdf)
 
 ### Hi there 👋
 
